@@ -3,6 +3,7 @@ Step 1: Basic Python (2 weeks)
 - Start with variables, data types, loops, functions
 - Practice with simple programs
 - Resource: "Python for Everybody" on Coursera (first 2 courses)
+- [https://www.youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0]
 
 Step 2: Python for Data Science (2-4 weeks)
 - Learn NumPy: array operations, mathematical functions
@@ -18,6 +19,7 @@ Step 1: Linear Algebra (3 weeks)
 - Matrix operations
 - Eigenvalues and eigenvectors
 - Resource: 3Blue1Brown videos + practice problems
+- [https://www.youtube.com/@3blue1brown]
 
 Step 2: Statistics (3 weeks)
 - Probability basics
@@ -25,12 +27,14 @@ Step 2: Statistics (3 weeks)
 - Inferential statistics
 - Hypothesis testing
 - Resource: Khan Academy Statistics
+- [https://www.khanacademy.org/math/statistics-probability]
 
 Step 3: Calculus Essentials (2-4 weeks)
 - Derivatives
 - Gradients
 - Chain rule
 - Resource: MIT OpenCourseWare 18.01
+- [https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/resources/lecture-1-derivatives/]
 
 PHASE 3: MACHINE LEARNING BASICS (12 weeks)
 Step 1: Core Concepts (4 weeks)
@@ -48,6 +52,7 @@ Learn and implement:
 4. Random Forests
 5. K-Means Clustering
 Practice each with scikit-learn
+[https://scikit-learn.org/stable/]
 
 Step 3: Model Evaluation (4 weeks)
 - Accuracy metrics
