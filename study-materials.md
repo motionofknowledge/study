@@ -10,7 +10,7 @@ Step 2: Python for Data Science (2-4 weeks)
 - Study Matplotlib/Seaborn: data visualization
 - Daily practice exercises with each library
 - Resource: "Python Data Science Handbook" by Jake VanderPlas (free online)
-- https://jakevdp.github.io/PythonDataScienceHandbook/
+- [https://jakevdp.github.io/PythonDataScienceHandbook/]
 
 PHASE 2: MATHEMATICS FOUNDATIONS (8-10 weeks)
 Step 1: Linear Algebra (3 weeks)
